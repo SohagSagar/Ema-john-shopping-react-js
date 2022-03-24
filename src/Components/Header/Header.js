@@ -4,8 +4,6 @@ import './Header.css'
 
 const Header = (props) => {
     console.log(props);
-
-    
     return (
 
         <nav className='nav-container'>
